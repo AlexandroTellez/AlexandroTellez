@@ -1,42 +1,41 @@
-# ¡Hola! Soy Alexandro Tellez 👋
+# Hello! I'm Alexandro Tellez 👋
 
-Soy un desarrollador de software apasionado por la programación y el desarrollo backend, con un enfoque especial en Java, bases de datos y soluciones en la nube. Actualmente, estoy finalizando mis estudios de Desarrollo de Aplicaciones Web con especialidad en Blockchain y me encuentro buscando nuevas oportunidades como Junior Backend Developer.
+I am a software developer passionate about programming and backend development, with a special focus on Java, databases, and cloud solutions. I am currently finishing my studies in Web Application Development with a specialization in Blockchain, and I am actively seeking new opportunities as a Junior Backend Developer.
 
-## 🧑‍💻 ¿Quién soy?
+## 🧑‍💻 Who am I?
 
-- 👨‍🎓 Graduado en Desarrollo de Aplicaciones Web con especialización en Blockchain.
-- 💻 Me apasiona crear soluciones escalables y eficientes, utilizando tecnologías como Java, Spring Boot, PostgreSQL y más.
-- 🚀 En constante aprendizaje y siempre dispuesto a explorar nuevas herramientas y lenguajes de programación.
-- 📈 Actualmente estoy enfocándome en mejorar mis habilidades con conceptos avanzados de programación, estructuras de datos y algoritmos para conseguir mi primer trabajo.
+- 👨‍🎓 Graduated in Web Application Development with a specialization in Blockchain.
+- 💻 I am passionate about creating scalable and efficient solutions using technologies like Java, Spring Boot, PostgreSQL, and more.
+- 🚀 Constantly learning and always eager to explore new tools and programming languages.
+- 📈 Currently focusing on improving my skills with advanced programming concepts, data structures, and algorithms to land my first job.
 
-## 🛠️ Mis habilidades
+## 🛠️ My Skills
 
-- **Lenguajes de programación:** Java, Python, SQL
-- **Frameworks y Tecnologías:** Spring Boot, React, Django, PostgreSQL
-- **Herramientas y entornos de desarrollo:** VS Code, pgAdmin, Git, Docker
-- **Metodologías:** Agile, Desarrollo de APIs RESTful
-- **Otros intereses:** Big Data, Machine Learning (en proceso de aprendizaje), DevOps e insfractuctura en la nube (en proceso de aprendizaje). 
+- **Programming Languages:** Java, Python, SQL
+- **Frameworks and Technologies:** Spring Boot, React, Django, PostgreSQL
+- **Tools and Development Environments:** VS Code, pgAdmin, Git, Docker
+- **Methodologies:** Agile, RESTful API Development
+- **Other Interests:** Big Data, Machine Learning (in the process of learning), DevOps, and Cloud Infrastructure (in the process of learning).
 
-## 🌱 Proyectos destacados
+## 🌱 Featured Projects
 
-Aquí tienes algunos de mis proyectos más recientes (sigo en proceso de crear muchos más):
+Here are some of my recent projects (I’m still working on creating many more):
 
-### 📊 [Calculadora con Spring Boot y PostgreSQL](https://github.com/AlexandroTellez/Calculadora-Spring-Boot)
-Una calculadora backend con Spring Boot y PostgreSQL. Este proyecto incluye funcionalidades de gestión de ítems y categorías, y está diseñado para expandirse con un frontend en React.
+### 📊 [Calculator with Spring Boot and PostgreSQL](https://github.com/AlexandroTellez/Calculadora-Spring-Boot)
+A backend calculator built with Spring Boot and PostgreSQL. This project includes functionalities for managing items and categories and is designed to be extended with a frontend in React.
 
-### 🌍 [API de gestión de estudiantes](https://github.com/AlexandroTellez/Student-API)
-Una API que permite gestionar una base de datos de estudiantes, con funcionalidades como alta, modificación y eliminación de registros.
+### 🌍 [Student Management API](https://github.com/AlexandroTellez/Student-API)
+An API for managing a student database, with functionalities like adding, modifying, and deleting records.
 
-## 🎯 Mi objetivo
+## 🎯 My Goal
 
-Mi objetivo es seguir aprendiendo y creciendo como desarrollador backend. Estoy comprometido a crear soluciones de software eficientes, escalables y de alta calidad. Busco oportunidades en empresas tecnológicas innovadoras para aportar mis habilidades y aprender de profesionales con experiencia.
+My goal is to continue learning and growing as a backend developer. I am committed to building efficient, scalable, and high-quality software solutions. I am looking for opportunities in innovative tech companies where I can contribute my skills and learn from experienced professionals.
 
-## 📫 ¡Conéctate conmigo!
+## 📫 Connect with me!
 
-- 📧 Correo: alextellezyanes@gmail.com
+- 📧 Email: alextellezyanes@gmail.com
 - 🔗 LinkedIn: [Alexandro Tellez](https://www.linkedin.com/in/alex-tellez-y/)
 
 ---
 
-> "El desarrollo de software no es solo un trabajo, es una pasión que impulsa la innovación." - Alexandro Tellez
-
+> "Software development is not just a job; it’s a passion that drives innovation." - Alexandro Tellez
