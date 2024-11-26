@@ -21,10 +21,10 @@ I am a software developer passionate about programming and backend development, 
 
 Here are some of my recent projects (I’m still working on creating many more):
 
-### 📊 [Spaceship Payload Calculator with Spring Boot and PostgreSQL](https://github.com/JesusMSM/spaceship-alex)
+### 🚀 [Spaceship Payload Calculator with Spring Boot and PostgreSQL](https://github.com/JesusMSM/spaceship-alex)
 A backend calculator built with Spring Boot and PostgreSQL. This project includes functionalities for managing items and categories and is designed to be extended with a frontend in React.
 
-### 🌍 [Student Management API](https://github.com/AlexandroTellez/Demo)
+### 🧑‍🎓 [Student Management API](https://github.com/AlexandroTellez/Demo)
 An API for managing a student database, with functionalities like adding, modifying, and deleting records.
 
 ## 🎯 Goals
