@@ -31,9 +31,6 @@ Demo is an API for managing a student database, with functionality such as addin
 
 The aim of this project is didactic, to practice and show backend development skills using technologies such as: Java 21, maven, Spring Boot, PostgreSQL and Vs Code. It serves as a starting point to explore essential concepts such as entity management, REST drivers and database connectivity.
 
-
-Translated with DeepL.com (free version)
-
 ## 🎯 Goals
 
 My goal is to continue learning and growing as a backend developer. I am committed to building efficient, scalable, and high-quality software solutions. I am looking for opportunities in innovative tech companies where I can contribute my skills and learn from experienced professionals.
