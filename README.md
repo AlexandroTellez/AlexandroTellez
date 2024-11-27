@@ -27,9 +27,9 @@ Here are some of my recent projects (I’m still working on creating many more):
 This **project** includes functionalities such as knowing the weight limit and in the case of exceeding the weight limit, it will be prioritised according to its category until the set weight limit is achieved. Based on 3 main classes: Item, Category and Calculator.
 
 ### 🧑‍🎓 [Student Management API](https://github.com/AlexandroTellez/Demo)
-***Demo** is an API for managing a student database, with functionality such as adding, modifying and deleting records.
+**Demo** is an API for managing a student database, with functionality such as adding, modifying and deleting records.
 
-The ***aim** of this project is didactic, to practice and show backend development skills using technologies such as: Java 21, maven, Spring Boot, PostgreSQL and Vs Code. It serves as a starting point to explore essential concepts such as entity management, REST drivers and database connectivity.
+The **aim** of this project is didactic, to practice and show backend development skills using technologies such as: Java 21, maven, Spring Boot, PostgreSQL and Vs Code. It serves as a starting point to explore essential concepts such as entity management, REST drivers and database connectivity.
 
 ## 🎯 Goals
 
@@ -37,8 +37,8 @@ My **goal** is to continue learning and growing as a backend developer. I am com
 
 ## 📫 Contact
 
-- 📧 Email: alextellezyanes@gmail.com
-- 🔗 LinkedIn: [Alexandro Tellez](https://www.linkedin.com/in/alex-tellez-y/)
+- 📧 **Email:** alextellezyanes@gmail.com
+- 🔗 **LinkedIn:** [Alexandro Tellez](https://www.linkedin.com/in/alex-tellez-y/)
 
 ---
 
