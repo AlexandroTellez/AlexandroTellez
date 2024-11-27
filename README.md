@@ -19,7 +19,7 @@ I am a **software developer** passionate about programming and backend developme
 
 ## 🌱 Featured Projects
 
-Here are some of my recent projects (I’m still working on creating many more):
+Here are some of my **recent projects** (I’m still working on creating many more):
 
 ### 🚀 [Spaceship Payload Calculator](https://github.com/JesusMSM/spaceship-alex)
 **Spaceship payload calculator** built with java 17, Spring Boot, Maven, PostgreSQL and Vs code.  
