@@ -1,6 +1,6 @@
 # Hello! I'm Alex Tellez 👋
 
-I am a junior software developer passionate about programming and backend development, with a special focus on Java, databases, and cloud solutions. I am currently finishing my studies in Web Application Development with a specialization in Blockchain, and I am actively seeking new opportunities as a Junior Backend Developer.
+I am a **software developer** passionate about programming and backend development, with a special focus on Java, databases, and cloud solutions. I am **currently** finishing my studies in Web Application Development with a specialization in Blockchain, and I am actively **seeking** new opportunities as a Junior Backend Developer.
 
 ## 🧑‍💻 About Me
 
