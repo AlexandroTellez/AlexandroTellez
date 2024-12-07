@@ -22,7 +22,7 @@ I am a **software developer** passionate about programming and backend developme
 Here are some of my **recent projects** (I’m still working on creating many more):
 
 ### 🚀 [Spaceship Payload Calculator](https://github.com/AlexandroTellez/spaceship-alex)
-**Spaceship payload calculator** built with java 17, Spring Boot, Maven, PostgreSQL and Vs code.  
+**Spaceship payload calculator** built with java 17, Spring Boot, Maven, PostgreSQL, Docker and Vs code.  
 
 This **project** includes functionalities such as knowing the weight limit and in the case of exceeding the weight limit, it will be prioritised according to its category until the set weight limit is achieved. Based on 3 main classes: Item, Category and Calculator.
 
