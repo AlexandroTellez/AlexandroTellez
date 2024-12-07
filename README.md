@@ -12,7 +12,7 @@ I am a **software developer** passionate about programming and backend developme
 ## 🛠️ Skills
 
 - **Programming Languages:** Java, Python, SQL
-- **Frameworks and Technologies:** Spring Boot, React, Django, PostgreSQL
+- **Frameworks and Technologies:** Spring Boot, React, FastAPI, PostgreSQL, MongoDB
 - **Tools and Development Environments:** VS Code, pgAdmin, Git, Docker
 - **Methodologies:** Agile, RESTful API Development
 - **Other Interests:** Big Data, Machine Learning (in the process of learning), DevOps, and Cloud Infrastructure (in the process of learning).
