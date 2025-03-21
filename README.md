@@ -4,7 +4,7 @@ I am a **software developer** passionate about programming and backend developme
 
 ## 🧑‍💻 About Me
 
-- 👨‍🎓 Graduated in Web Application Development with a specialization in Blockchain.
+- 👨‍🎓 Graduated in Web Application Development.
 - 💻 I am passionate about creating scalable and efficient solutions using technologies like Java, Spring Boot, PostgreSQL, and more.
 - 🚀 Constantly learning and always eager to explore new tools and programming languages.
 - 📈 Currently focusing on improving my skills with advanced programming concepts, data structures, and algorithms to land my first job.
