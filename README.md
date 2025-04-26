@@ -37,8 +37,9 @@ My **goal** is to continue learning and growing as a backend developer. I am com
 
 ## 📫 Contact
 
-- 📧 **Email:** alextellezyanes@gmail.com
+- 📧 **Email:** [alextellezyanes@gmail.com](mailto:alextellezyanes@gmail.com)
 - 🔗 **LinkedIn:** [Alexandro Tellez](https://www.linkedin.com/in/alex-tellez-y/)
+- 🔗 **Portfolio:** [alextellezy.com](https://www.alextellezy.com/)
 
 ---
 
