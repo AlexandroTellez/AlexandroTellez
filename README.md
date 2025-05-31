@@ -26,7 +26,7 @@ Here are some of my **recent projects** (I’m still working on creating many mo
 
 This ***project*** showcases my professional experience, technologies I work with, personal projects, and contact information. It is designed with smooth animations, responsive layouts, and a modern UI to offer an engaging user experience. The main sections include Hero, About Me, Technologies, Work Experience, Projects, and Contact.
 
-### ✅ [TaskProX - Task Management App](https://github.com/AlexandroTellez/TaskProX)
+### ☑️ [TaskProX - Task Management App](https://github.com/AlexandroTellez/TaskProX)
 **TaskProX** is a collaborative web application for project and task management built with **FastAPI**, **MongoDB**, **React**, **TailwindCSS**, and **Ant Design**.
 
 This ***project*** includes:
