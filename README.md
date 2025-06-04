@@ -1,22 +1,50 @@
 # Hello! I'm Alex Tellez 👋
 
-I am a **software developer** passionate about programming and backend development, with a special focus on Java, databases, and cloud solutions. I am **currently** finishing my studies in Web Application Development with a specialization in Blockchain, and I am actively **seeking** new opportunities as a Junior Backend Developer.
+I am a **Junior Full Stack Developer** passionate about building scalable and efficient web applications, with a strong focus on **frontend and backend development**, working with technologies like **React**, **Angular**, **Pyton**, **Java**, **databases**, and **cloud solutions**. I have hands-on experience across the full stack and I’m **currently** completing my studies in Web Application Development with a specialization in **Blockchain**. I am actively **seeking** opportunities to grow as a Full Stack Developer and contribute to innovative tech projects.
 
+---
 ## 🧑‍💻 About Me
 
 - 👨‍🎓 Graduated in Web Application Development.
 - 💻 I am passionate about creating scalable and efficient solutions using technologies like FastAPI, Spring Boot, MongoDB, and more.
 - 🚀 Constantly learning and always eager to explore new tools and programming languages.
 - 📈 Currently focusing on improving my skills with advanced programming concepts, data structures, and algorithms to land my first job.
+  
+---
+## 🛠️ Technical Skills
 
-## 🛠️ Skills
+### 🧩 Frontend  
+- React · Next.js · Angular  
+- TailwindCSS · Ant Design · Framer Motion  
+- HTML · CSS · JavaScript
 
-- **Programming Languages:** Java, Python, JavaScript, NoSQL, SQL. 
-- **Frameworks and Technologies:** Spring Boot, React, FastAPI, PostgreSQL, MongoDB.
-- **Tools and Development Environments:** VS Code, pgAdmin, Git, Docker, Figma.
-- **Methodologies:** Agile, RESTful API Development.
-- **Other Interests:** Big Data, Machine Learning (in the process of learning), DevOps and Cloud Infrastructure (in the process of learning).
+### ⚙️ Backend  
+- FastAPI · Spring Boot  
+- Python · Java  
+- JWT Authentication
+- REST APIs
 
+### 🗄️ Databases  
+- MongoDB · MongoDB Atlas  
+- PostgreSQL · MySQL
+
+### 🧰 Tools & Environments  
+- Git · GitHub 
+- TurboRepo  
+- Visual Studio Code · IntelliJ
+- MongoDB Compass · pgAdmin  
+- Figma
+
+### 🚀 Deployment  
+- Docker
+- Render
+- Vercel 
+
+### 🌐 Languages  
+- Spanish (native) 
+- English (B2 certificate)
+
+---
 ## 🌱 Featured Projects
 
 Here are some of my **recent projects** (I’m still working on creating many more):
@@ -40,16 +68,15 @@ This ***project*** includes:
 
 It is ideal for freelancers, teams, and students looking to organize work efficiently. Hosted on Vercel (frontend) and Render (backend).
 
+---
 ## 🎯 Goals
 
-My **goal** is to continue learning and growing as a backend developer. I am committed to building efficient, scalable, and high-quality software solutions. I am looking for opportunities in innovative tech companies where I can contribute my skills and learn from experienced professionals.
+My **goal** is to keep advancing as a Full Stack Developer by deepening my expertise in modern web technologies and industry best practices. I strive to create impactful, maintainable, and user-centered applications. I am eager to join a forward-thinking tech team where I can contribute meaningfully, continue learning from real-world challenges, and grow alongside experienced professionals.
 
 ## 📫 Contact
 
 - 📧 **Email:** [alextellezyanes@gmail.com](mailto:alextellezyanes@gmail.com)
 - 🔗 **LinkedIn:** [Alexandro Tellez](https://www.linkedin.com/in/alex-tellez-y/)
 - 🔗 **Portfolio:** [alextellezy.com](https://www.alextellezy.com/)
-
----
 
 > "Software development is not just a job; it’s a passion that drives innovation." - Alexandro Tellez
