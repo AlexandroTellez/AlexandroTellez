@@ -68,6 +68,11 @@ This ***project*** includes:
 
 It is ideal for freelancers, teams, and students looking to organize work efficiently. Hosted on Vercel (frontend) and Render (backend).
 
+### 🏢 [AlteyaHR - Employee Management Application](https://github.com/AlexandroTellez/AlteyaHR)
+**Employee Management Application:** built with **Angular** for the frontend, **Spring Boot** for the backend, and **MySQL** for data storage.
+
+This ***project*** enables organizations to manage employee records, departments, and contracts efficiently, with planned features including authentication, dashboards, and role-based access control to improve workforce management.
+
 ---
 ## 🎯 Goals
 
