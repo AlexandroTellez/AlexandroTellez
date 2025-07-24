@@ -1,14 +1,14 @@
 # Hello! I'm Alex Tellez 👋
 
-I am a **Junior Full Stack Developer** passionate about building scalable and efficient web applications, with a strong focus on **frontend and backend development**, working with technologies like **React**, **Angular**, **Pyton**, **Java**, **databases**, and **cloud solutions**. I have hands-on experience across the full stack and I’m **currently** completing my studies in Web Application Development with a specialization in **Blockchain**. I am actively **seeking** opportunities to grow as a Full Stack Developer and contribute to innovative tech projects.
+I am a **Full Stack Developer** passionate about building scalable and efficient web applications, with a strong focus on **frontend and backend development**, working with technologies like **React**, **Angular**, **Pyton**, **Java**, **databases**, and **cloud solutions**. I have hands-on experience across the full stack and I’m **currently** completing my studies in Web Application Development with a specialization in **Blockchain**. I am actively **seeking** opportunities to grow as a Full Stack Developer and contribute to innovative tech projects.
 
 ---
 ## 🧑‍💻 About Me
 
 - 👨‍🎓 Graduated in Web Application Development.
-- 💻 I am passionate about creating scalable and efficient solutions using technologies like FastAPI, Spring Boot, MongoDB, and more.
+- 💻 I am passionate about creating scalable and efficient solutions using technologies like FastAPI, Spring Boot, SQL, and more.
 - 🚀 Constantly learning and always eager to explore new tools and programming languages.
-- 📈 Currently focusing on improving my skills with advanced programming concepts, data structures, and algorithms to land my first job.
+- 📈 Currently working as a freelance developer while actively seeking a full-time opportunity in a company where I can grow, contribute to real-world projects, and collaborate with experienced teams.
   
 ---
 ## 🛠️ Technical Skills
