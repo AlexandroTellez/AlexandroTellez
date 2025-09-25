@@ -26,7 +26,7 @@ I’m also a graduate in **Web Application Development (DAW)** and hold a **B2 E
 
 ### 🗄️ Databases  
 - PostgreSQL · MySQL · MongoDB  
-- DynamoDB · RDS · OpenSearch (Vector DB)
+- Milvus
 
 ### 🤖 AI / NLP / MLOps  
 - Generative AI with LangGraph  
